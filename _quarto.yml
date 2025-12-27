@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ssemakula Peter Wasswa"
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: resources.qmd
+        text: Resources
+  page-footer: 
+    center: " 2025 Ssemakula Peter Wasswa"
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: false
+    page-layout: full
+
+
+

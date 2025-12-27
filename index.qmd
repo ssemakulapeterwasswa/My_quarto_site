@@ -1,0 +1,33 @@
+---
+title: ""
+page-layout: full
+---
+
+<div class="hero">
+
+  <img src="images/profile.jpg"
+       alt="Ssemakula_profile_picture"
+       class="hero-img">
+
+  <p class="hero-text">
+    Hi there! I’m **Ssemakula Peter Wasswa**. Professionally, I work on
+    data science, analytics, and building tools that make data
+    easier to use. Outside of work, I enjoy hiking, mentoring,
+    and trying out new recipes.  
+    Have a look around my website to learn more!
+  </p>
+
+ <div class="hero-buttons">
+  <a href="https://www.linkedin.com/in/ssemakula-peter-wasswa-04a8a7283" target="_blank" class="btn btn-outline-light">
+    🔗 LinkedIn
+  </a>
+  <a href="https://github.com/ssemakulapeterwasswa" target="_blank" class="btn btn-outline-light">
+    💻 GitHub
+  </a>
+  <a href="mailto:ssemakulapeterwasswa20@gmail.com" class="btn btn-outline-light">
+    ✉️ Email
+  </a>
+ </div>
+
+
+</div>
